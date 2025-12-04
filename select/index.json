@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "静降想",
+  "base_artist": "MyGO!!!!!",
+  "createdAt": "2025-12-04T02:45:16.412475Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "静降想",
+      "artist": "MyGO!!!!!",
+      "has_synced": false,
+      "path": "select/pl_01_静降想_MyGO!!!!!.txt"
+    }
+  ]
+}
